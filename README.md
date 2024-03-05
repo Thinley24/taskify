@@ -1,4 +1,5 @@
 # README
+This is a simple task management web application build using hotwire
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
