@@ -1,6 +1,8 @@
 # README
 This is a simple task management web application build using hotwire
 
+Simply, clone the repo and run `rails s` in the terminal in project directory. Then, copy paste the http://127.0.0.1:3000 or http://localhost:3000 in browser. Enjoy!
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
